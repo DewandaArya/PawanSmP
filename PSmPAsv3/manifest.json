@@ -1,1 +1,38 @@
-
+{
+  "format_version": 2,
+  "header": {
+    "name": "PSmPAsv3",
+    "description": "Pawan SMP Assets v3",
+    "uuid": "e1c5b0fe-d44b-450f-bae5-85fefc502c26",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "_",
+      "uuid": "f8943324-2547-4121-a450-0d1635292c83",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "capabilities": {
+    "experimental_custom_ui": true,
+    "chemistry": true
+  },
+  "metadata": {
+    "authors": "DewandaArya",
+    "url": "https://github.com/DewandaArya/PawanSmP/tree/main/PSmPAsv3"
+  }
+}
